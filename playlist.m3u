@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2M Monde" tvg-name="2M Monde ARB" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/2m_ma_tv.jpg?v=6",2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alaoula.jpg?v=6",Al Aoula
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/laayoune.jpg?v=6",Al Aoula Laayoune
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almaghribia.jpg?v=6",Al Maghribia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/arriyadia.jpg?v=6" group-title="Sport",Arryadia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/assadissa.jpg?v=6",Assadissa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/attakafiya.jpg?v=6",Athaqafia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/tamazight.jpg?v=6",Tamazight
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/maptvnews.jpg?v=6",M24 TV
+https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-language="French" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/medi1tv_maghreb.jpg?v=6",Medi1 TV Maghreb
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/medi1tv_arabic.jpg?v=6",Medi1 TV Arabic
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/medi1tv_afrique.jpg?v=6",Medi1 TV Afrique
+https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/telemaroc.jpg?v=6",Télé Maroc
+https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
